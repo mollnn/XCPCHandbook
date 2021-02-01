@@ -1,14 +1,3 @@
-## 网络流模板 v4
-
-【使用指南】
-
-1. 修改合适的 N 和 M
-2. 创建对象 `flowsolution::MaxflowSolution flow;` 或 `flowsolution::CostflowSolution flow;`
-3. 调用 `make` 成员函数建边
-4. 调用 `solve` 成员函数计算结果
-
-``` cpp
-// flow.hpp
 #ifndef __FLOW_HPP__
 #define __FLOW_HPP__
 
@@ -221,4 +210,3 @@ namespace flowsolution
 } // namespace flowsolution
 
 #endif
-```
