@@ -1,0 +1,23 @@
+<单调队列> <monoqueue.cpp>
+<树状数组> <bit.cpp>
+<稀疏表> <st.cpp>
+<线段树（区间修改、区间求和）> <sgt_01.cpp>
+<静态区间第k大> <interkth_s.cpp>
+<动态区间第k大> <interkth_d.cpp>
+<树链剖分 点权 hdu3966> <treediv_1.cpp>
+<可删除堆> <heap_del.cpp>
+<Splay 普通平衡树操作> <splay_1.cpp>
+<Splay 区间翻转> <splay_2.cpp>
+<Splay 启发式合并> <splay_3.cpp>
+<Splay 区间标记综合> <splay_4.cpp>
+<线段树套线段树> <tit2b.cpp>
+<线段树套平衡树> <tit2b_splay.cpp>
+<Link Cut Tree 维护动态树连通性> <lct_01.cpp>
+<Link Cut Tree 维护最大生成树> <lct_02.cpp>
+<Link Cut Tree 维护子树信息> <lct_03.cpp>
+<莫队算法> <modui_std.cpp>
+<莫队算法 带修改> <modui_modify.cpp>
+<莫队算法 树上莫队> <modui_tree.cpp>
+<在线动态图连通性(ETT)> <dynagraph_ett.cpp>
+<并查集> <mfs.cpp>
+<可持久化01Trie> <trie01sss.cpp>

@@ -1,0 +1,66 @@
+<complex>
+Complex numbers library
+The complex library implements the complex class to contain complex numbers in cartesian form and several functions and overloads to operate with them:
+
+Classes
+complex
+Complex number class (class template )
+
+Functions
+Complex values:
+real
+Real part of complex (function template )
+imag
+Imaginary part of complex (function template )
+abs
+Absolute value of complex (function template )
+arg
+Phase angle of complex (function template )
+norm
+Norm of complex (function template )
+conj
+Complex conjugate (function template )
+polar
+Complex from polar components (function template )
+proj 
+Complex projection. (function template )
+
+Transcendentals overloads:
+cos
+Cosine of complex (function template )
+cosh
+Hyperbolic cosine of complex (function template )
+exp
+Exponential of complex (function template )
+log
+Natural logarithm of complex (function template )
+log10
+Common logarithm of complex (function template )
+pow
+Power of complex (function template )
+sin
+Sine of complex (function template )
+sinh
+Hyperbolic sine of complex (function template )
+sqrt
+Square root of complex (function template )
+tan
+Tangent of complex (function template )
+tanh
+Hyperbolic tangent of complex (function template )
+acos 
+Arc cosine of complex (function template )
+acosh 
+Arc hyperbolic cosine of complex (function template )
+asin 
+Arc sine of complex (function template )
+asinh 
+Arc hyperbolic sine of complex (function template )
+atan 
+Arc tangent of complex (function template )
+atanh 
+Arc hyperbolic tangent of complex (function template )
+
+Operator overloads:
+complex operators
+Complex number operators (function )

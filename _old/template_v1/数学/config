@@ -1,0 +1,36 @@
+<快速幂> <qpow.cpp>
+<筛素数 Eratosthenes筛法> <prime_sh1.cpp>
+<筛素数 线性筛法> <prime_sh2.cpp>
+<筛素数 大整数区间示例> <prime_sh_t1.cpp>
+<杜教筛> <sieve_du.cpp>
+<单次欧拉函数> <phi_single.cpp>
+<筛法求phi,mu> <phimu.cpp>
+<GCD> <gcd.cpp>
+<GCD多组 O(v)预处理 O(1)查询> <gcd_fast.cpp>
+<exGCD> <exgcd.cpp>
+<exCRT> <crt_ex.cpp>
+<BSGS> <bsgs.cpp>
+<exBSGS> <bsgs_ex.cpp>
+<类BSGS 求解递推数列> <bsgs_recur.cpp>
+<Lucas> <lucas_std.cpp>
+<exLucas> <lucas_ext.cpp>
+<Mobius反演> <mobius_inversion.cpp>
+<Cantor展开与逆Cantor展开> <cantorExpansion.cpp>
+<多项式乘法 FFT> <poly_fft.cpp>
+<多项式乘法 质数模数 NTT> <poly_ntt.cpp>
+<多项式乘法 任意模数 NTT> <poly_mtt.cpp>
+<多项式求逆> <poly_inv.cpp>
+<多项式除法> <poly_div.cpp>
+<多项式开根> <poly_sqrt.cpp>
+<多项式快速幂> <poly_pow.cpp>
+<多项式指数函数> <poly_exp.cpp>
+<多项式对数函数> <poly_log.cpp>
+<多项式 FFT 备用> <poly_fft_short.cpp>
+<多项式 任意模数NTT 备用> <poly_ntt_anymodulo.cpp>
+<线性递推 高阶递推式> <poly_recurrence.cpp>
+<Lagrange插值法> <lagrange_insertion.cpp>
+<约瑟夫环递推> <joseph.cpp>
+<O(1)快速乘> <multio1.cpp>
+<高精度类（加减乘比较）> <bigint.cpp>
+<高精度类（完全）> <hp_full.cpp>
+<线性规划 单纯形算法> <linear_prog.cpp>

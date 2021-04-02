@@ -1,0 +1,10 @@
+<字符串Hash> <hash.cpp>
+<普通KMP> <kmp.cpp>
+<扩展KMP (Z算法)> <exkmp.cpp>
+<Trie树 前缀判断> <trie_std.cpp>
+<Trie树 最大异或和> <trie_maxxorsum.cpp>
+<AC自动机 求匹配的模式串个数> <aca_1.cpp>
+<AC自动机 求出现次数最多的模式串> <aca_2.cpp>
+<Manacher算法> <manacher.cpp>
+<后缀数组 O(nlogn) 求本质不同的子串数量> <sa.cpp>
+<后缀数组 O(n) DC3算法模板> <sa_dc3.cpp>
